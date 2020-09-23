@@ -15,7 +15,7 @@ random.randint(1,10)
 
 
 
-""" how to generate a random binary distribution with a fixed probability """
+""" how to generate a random binary distribution with a random probability """
 
 """random library will be used"""
 
