@@ -30,7 +30,7 @@ pd.set_option('display.max_columns', None)
 
 """Step 1 load the dataset"""
 
-path = "C:/Users/gn-dy/birthwt2020.csv"
+path = "C:/Users/birthwt2020.csv"
 data_set = pd.read_csv(path)
 print(data_set.head())
 
