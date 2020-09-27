@@ -1,6 +1,6 @@
 # load the data and attach the data to the system 
 
-data_set <- read.csv("C:/Users/gn-dy/birthwt2020.csv")
+data_set <- read.csv("C:/Users/birthwt2020.csv")
 print(data_set)
 head(data_set)
 attach(data_set)
